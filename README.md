@@ -8,5 +8,9 @@
 
 ##  **Meio de comunicação**📧
  - clara.gaspareto@escola.pr.gov.br
+ ##  **Editores que mais uso:**
+
+  - [VScode](https://code.visualstudio.com/)
+  - [p5.js](https://editor.p5js.org/)
 
 ![](https://media1.tenor.com/m/SGamipVYbjUAAAAC/oie-goose.gif)
